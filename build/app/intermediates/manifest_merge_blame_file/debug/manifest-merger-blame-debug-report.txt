@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.firebase:firebase-auth:21.1.0] /Users/apple/.gradle/caches/transforms-3/022b72b7187255eca7afd25c2c2ff9c7/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
 16-->[com.google.firebase:firebase-auth:21.1.0] /Users/apple/.gradle/caches/transforms-3/022b72b7187255eca7afd25c2c2ff9c7/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:22-76
@@ -107,25 +107,25 @@
 81            android:value="ca-app-pub-6256601730372840~3261626617" />
 82            android:value="ca-app-pub-6256601730372840~7923776412"/>
 83        <service
-83-->[:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+83-->[:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 84            android:name="com.google.firebase.components.ComponentDiscoveryService"
-84-->[:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+84-->[:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 85            android:directBootAware="true"
 85-->[com.google.firebase:firebase-common:20.2.0] /Users/apple/.gradle/caches/transforms-3/1f5293cac7ee6599710ad386efb328c8/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
 86            android:exported="false" >
 86-->[com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:10:13-37
 87            <meta-data
-87-->[:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+87-->[:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-88-->[:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+88-->[:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+89-->[:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 90            <meta-data
-90-->[:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+90-->[:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 91                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-91-->[:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+91-->[:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+92-->[:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 93            <meta-data
 93-->[com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:11:13-13:85
 94                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
@@ -159,11 +159,11 @@
 108        </service>
 109
 110        <meta-data
-110-->[:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
+110-->[:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
 111            android:name="io.flutter.embedded_views_preview"
-111-->[:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
+111-->[:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
 112            android:value="true" />
-112-->[:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+112-->[:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 113
 114        <uses-library
 114-->[androidx.window:window:1.0.0-beta04] /Users/apple/.gradle/caches/transforms-3/898cbb911d0e06d2c9dea240545edf75/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

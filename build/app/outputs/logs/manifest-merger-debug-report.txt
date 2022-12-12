@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:3:4-37:19
-MERGED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:3:4-37:19
+MERGED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] /Users/apple/.gradle/caches/transforms-3/e8915e6f73ff3c73c104817b9dca7424/transformed/jetified-firebase-common-ktx-20.2.0/AndroidManifest.xml:10:5-18:19
@@ -68,17 +68,17 @@ MERGED from [androidx.room:room-runtime:2.2.5] /Users/apple/.gradle/caches/trans
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/apple/.gradle/caches/transforms-3/d4be00ef9362846b7e5ef168486a55d7/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-MERGED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-MERGED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:modal_progress_hud_nsn] /Users/apple/Desktop/whatsapp/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:modal_progress_hud_nsn] /Users/apple/Documents/GitHub/firebaseauth-admob/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] /Users/apple/.gradle/caches/transforms-3/e8915e6f73ff3c73c104817b9dca7424/transformed/jetified-firebase-common-ktx-20.2.0/AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/apple/.gradle/caches/transforms-3/28daf90d95404355e6e365bb554f1b5f/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
@@ -137,35 +137,35 @@ MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/apple/.gradle/caches/transform
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-3/70a0ce51f03c05a6e433c99af904d058/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-3/efe0a16846c0ea995a87b0bd2f00721e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/apple/.gradle/caches/transforms-3/ce3349bb877d5ae4849e3cc416f462b3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:1:1-8:12
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:2:5-35
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:1-38:12
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:modal_progress_hud_nsn] /Users/apple/Desktop/whatsapp/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:modal_progress_hud_nsn] /Users/apple/Desktop/whatsapp/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:modal_progress_hud_nsn] /Users/apple/Documents/GitHub/firebaseauth-admob/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:modal_progress_hud_nsn] /Users/apple/Documents/GitHub/firebaseauth-admob/build/modal_progress_hud_nsn/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] /Users/apple/.gradle/caches/transforms-3/e8915e6f73ff3c73c104817b9dca7424/transformed/jetified-firebase-common-ktx-20.2.0/AndroidManifest.xml:5:5-7:41
@@ -282,20 +282,20 @@ MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-
 MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-3/efe0a16846c0ea995a87b0bd2f00721e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/apple/.gradle/caches/transforms-3/ce3349bb877d5ae4849e3cc416f462b3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/apple/.gradle/caches/transforms-3/ce3349bb877d5ae4849e3cc416f462b3/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:21.3.0] /Users/apple/.gradle/caches/transforms-3/2d62ea033c06e5fbfb7a63ca824965de/transformed/jetified-play-services-ads-21.3.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:7:5-66
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:7:5-66
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/apple/.gradle/caches/transforms-3/022b72b7187255eca7afd25c2c2ff9c7/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/apple/.gradle/caches/transforms-3/022b72b7187255eca7afd25c2c2ff9c7/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.2.0] /Users/apple/.gradle/caches/transforms-3/73796134b657eecdf04a243e5f341c08/transformed/jetified-play-services-measurement-api-21.2.0/AndroidManifest.xml:22:5-67
@@ -311,11 +311,11 @@ MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] /Users/apple/
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/apple/.gradle/caches/transforms-3/1b811f70903e7781896f77459cd4d506/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] /Users/apple/.gradle/caches/transforms-3/1b811f70903e7781896f77459cd4d506/transformed/jetified-play-services-measurement-sdk-api-21.2.0/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/apple/Desktop/whatsapp/android/app/src/debug/AndroidManifest.xml:7:22-64
+		ADDED from /Users/apple/Documents/GitHub/firebaseauth-admob/android/app/src/debug/AndroidManifest.xml:7:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+ADDED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.2.0] /Users/apple/.gradle/caches/transforms-3/e8915e6f73ff3c73c104817b9dca7424/transformed/jetified-firebase-common-ktx-20.2.0/AndroidManifest.xml:11:9-17:19
@@ -335,25 +335,25 @@ MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/apple/.gradle/ca
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/apple/.gradle/caches/transforms-3/1f5293cac7ee6599710ad386efb328c8/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_auth] /Users/apple/Desktop/whatsapp/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_auth] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] /Users/apple/Desktop/whatsapp/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] /Users/apple/Documents/GitHub/firebaseauth-admob/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 meta-data#io.flutter.embedded_views_preview
-ADDED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
+ADDED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-14:36
 	android:value
-		ADDED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
+		ADDED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-33
 	android:name
-		ADDED from [:google_mobile_ads] /Users/apple/Desktop/whatsapp/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
+		ADDED from [:google_mobile_ads] /Users/apple/Documents/GitHub/firebaseauth-admob/build/google_mobile_ads/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-61
 meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
 ADDED from [com.google.firebase:firebase-analytics-ktx:21.2.0] /Users/apple/.gradle/caches/transforms-3/b45bc2e0d3d05485362e6fd03e444991/transformed/jetified-firebase-analytics-ktx-21.2.0/AndroidManifest.xml:11:13-13:85
 	android:value

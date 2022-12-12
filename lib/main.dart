@@ -8,7 +8,7 @@ import 'package:whatsapp/login_screen.dart';
 import 'package:whatsapp/signup_screen.dart';
 import 'home_screen.dart';
 import 'welcome_screen.dart';
-
+ 
 void main(List<String> args) async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
